@@ -18,8 +18,8 @@ O foco do trabalho é apresentar o problema, mostrar como o algoritmo o resolve 
 ## 👨‍💻 Como executar o código  
 ```bash
 # Clone o repositório
-git clone https://github.com/usuario/repositorio.git
-cd repositorio/codigo
+git clone https://github.com/josedhontas/seminario-01.git
+cd seminario-01/codigo
 
 # Execute (em Python)
 python main.py
