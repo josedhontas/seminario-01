@@ -13,8 +13,8 @@ O foco do trabalho é apresentar o problema, mostrar como o algoritmo o resolve 
 - `codigo/` → Código-fonte implementado em Python (com exemplo de execução)  
 
 ## ▶️ Vídeo da Apresentação  
-[Assista no YouTube](https://www.youtube.com/watch?v=tWw1EzIQJiI)  
-Ou copie: https://www.youtube.com/watch?v=tWw1EzIQJiI
+[Assista no YouTube clicando aqui](https://www.youtube.com/watch?v=tWw1EzIQJiI)  
+Ou acesse: https://www.youtube.com/watch?v=tWw1EzIQJiI
 
 ## 👨‍💻 Como executar o código  
 ```bash
