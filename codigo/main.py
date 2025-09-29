@@ -96,7 +96,7 @@ if __name__ == "__main__":
 
     custo, pares, multigrafo = carteiro_chines(grafo)
     print("Custo mínimo para percorrer todas as ruas:", custo)
-    print("Emparelhamentos de nós ímpares escolhidos:", pares)
+    print("Emparelhamentos de vertices ímpares escolhidos:", pares)
 
     ciclo = ciclo_euleriano(multigrafo, 'A')
     print("ciclo Euleriano do carteiro:")
