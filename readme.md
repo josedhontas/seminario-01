@@ -13,9 +13,7 @@ O foco do trabalho é apresentar o problema, mostrar como o algoritmo o resolve 
 - `codigo/` → Código-fonte implementado em Python (com exemplo de execução)  
 
 ## ▶️ Vídeo da Apresentação  
-<a href="https://www.youtube.com/watch?v=tWw1EzIQJiI" target="_blank">
-Assista no YouTube clicando aqui
-</a>
+[Assista no YouTube clicando aqui](https://www.youtube.com/watch?v=tWw1EzIQJiI)  
 Ou acesse: https://www.youtube.com/watch?v=tWw1EzIQJiI
 
 ## 👨‍💻 Como executar o código  
